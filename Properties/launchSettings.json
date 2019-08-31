@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EducatorGrades": {
+      "commandName": "Project",
+      "commandLineArgs": "curl \"https://educator.windesheim.nl/dashboard/student/S1092636?5&i=CODE1&t=PROGRESS&study=7100413\" -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\" -H \"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\" -H \"Accept-Language: nl,en-US;q=0.7,en;q=0.3\" --compressed -H \"DNT: 1\" -H \"Connection: keep-alive\" -H \"Cookie: JSESSIONID=6C91E24C097B513CBD56778DF6B416E1; NSC_WT_V_Fevdbups_TTM=ffffffff92240fb745525d5f4f58455e445a4a423660\" -H \"Upgrade-Insecure-Requests: 1\" -H \"Cookie-Installing-Permission: required\" -H \"Cache-Control: max-age=0\""
+    }
+  }
+}
